@@ -1,0 +1,59 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FriendsListItemComponentDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.mycompany.swingdemo.components.FriendsListItemComponentDemo",
+            "args": "",
+            "projectName": "swing-demo-app"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProfilePhotoComponentDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.mycompany.swingdemo.components.ProfilePhotoComponentDemo",
+            "args": "",
+            "projectName": "swing-demo-app"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SidebarComponentDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.mycompany.swingdemo.components.SidebarComponentDemo",
+            "args": "",
+            "projectName": "swing-demo-app"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppComponentDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.mycompany.swingdemo.components.AppComponentDemo",
+            "args": "",
+            "projectName": "swing-demo-app"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.mycompany.App",
+            "args": "",
+            "projectName": "swing-demo-app"
+        }
+    ]
+}
