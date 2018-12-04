@@ -25,9 +25,9 @@ public class FriendsListItemComponentDemo {
         constraints.gridwidth = 1;
         constraints.gridheight = 1;
         constraints.weightx = 1;
-        constraints.weighty = 1;
+        constraints.weighty = 0;
         mainframe.getContentPane().add(friendsListItemComponent, constraints);
-        mainframe.setSize(new Dimension(300, 300));
+        mainframe.setSize(new Dimension(600, 300));
         mainframe.setMaximumSize(new Dimension(300, -1));
         mainframe.setVisible(true);
         mainframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
